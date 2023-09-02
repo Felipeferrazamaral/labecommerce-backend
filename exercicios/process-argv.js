@@ -1,2 +1,1 @@
-console.log('app iniciado');
-console.log('app iniciadoooo');
+console.log(process.argv[2],process.argv[3]);
